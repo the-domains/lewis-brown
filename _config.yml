@@ -1,0 +1,28 @@
+name: Lewis Brown
+favicon: null
+layout_spectrum: 0.519685493549332
+typography_spectrum: 0.9712435540277511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5493731256574392
+  lightness: 0.26734981779009104
+  saturation: 0.4580018420238048
+  rhythmicContrast: 0.679302203701809
+purpose: []
